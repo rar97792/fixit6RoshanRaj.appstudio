@@ -23,8 +23,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "pets",
+            "pets.json"
           ]
         }
       ],
@@ -48,6 +48,7 @@
       "expanded_pmp": null,
       "extraheaders": null,
       "firstform": "Form1",
+      "firstform": "pets",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
